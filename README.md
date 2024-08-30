@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning advanced Java concepts, database management, and sharpening my problem-solving skills on platforms like LeetCode and CodeChef.  
 - 💞️ I’m looking to collaborate on projects related to web development, Java applications, and database-driven solutions.  
 - 📫 How to reach me: [singulurimahesh123@gmail.com](mailto:singulurimahesh123@gmail.com)  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I've solved over 400 problems on LeetCode, and I enjoy blending creativity with coding!  
 
 ### 🛠️ Technologies & Tools
