@@ -3,36 +3,27 @@
 - 👀 I’m interested in software development, web technologies, and competitive programming.  
 - 🌱 I’m currently learning advanced Java concepts, database management, and sharpening my problem-solving skills on platforms like LeetCode and CodeChef.  
 - 💞️ I’m looking to collaborate on projects related to web development, Java applications, and database-driven solutions.  
-- 📫 How to reach me: [singulurimahesh123@gmail.com](mailto:singulurimahesh123@gmail.com)    
+- 📫 How to reach me: [singulurimahesh123@gmail.com](mailto:singulurimahesh123@gmail.com)  
+- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I've solved over 400 problems on LeetCode, and I enjoy blending creativity with coding!  
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jdbc/jdbc-original.svg" alt="JDBC" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Servlets" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsp/jsp-original.svg" alt="JSP" width="50" height="50"/>
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%2335BDB2.svg?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-%230074a3.svg?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-%23E44C65.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### 📈 Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/Mahesh843/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
-  </a>
-  <a href="https://www.codechef.com/users/mahesh_843">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Codechef.com_logo.png" alt="CodeChef" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/Mahesh0843">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  </a>
-</p>
+- ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black) - [LeetCode Profile](https://leetcode.com/Mahesh843/)
+- ![CodeChef](https://img.shields.io/badge/CodeChef-%23000000.svg?style=for-the-badge&logo=codechef&logoColor=white) - [CodeChef Profile](https://www.codechef.com/users/mahesh_843)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - [GitHub Profile](https://github.com/Mahesh0843)
 
 ### 📝 Certifications
 - Python Foundation Certification by Infosys Springboard
